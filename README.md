@@ -41,7 +41,7 @@ Other ideas:
 - Outside plants: integrate with weather data and reset counter
 - Refreshing water, instead of new water, for a bouquet of flowers
 
-# Technology
+## Technology
 
 Target platforms: Android, iOS (Phone form-factor)
 Authentication: Individual accounts (with the possibility of adding social accounts later)
