@@ -46,3 +46,11 @@ Other ideas:
 Target platforms: Android, iOS (Phone form-factor)
 Authentication: Individual accounts (with the possibility of adding social accounts later)
 
+
+## Name ideas
+
+- Plant Master
+- Plant Butler
+- Plant nurse
+- Awake your plants
+- Keep your plants alive
