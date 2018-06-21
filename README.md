@@ -49,3 +49,11 @@ Other ideas:
 - Authentication: Individual accounts (with the possibility of adding social accounts later)
 - Frontend: Xamarin + Xamarin.Forms
 - Backend: 
+
+## Name ideas
+
+- Plant Master
+- Plant Butler
+- Plant nurse
+- Awake your plants
+- Keep your plants alive
