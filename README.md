@@ -7,6 +7,7 @@ New and improved [WaterBot](https://play.google.com/store/apps/details?id=net.ko
 ## Competitors
 - [WaterBot](https://play.google.com/store/apps/details?id=net.kosev.watering&hl=en)
 - [Plantsome](https://www.plantsome.nl)
+- [Plant Care Reminder - Plant Watering](https://play.google.com/store/apps/details?id=com.atcorapps.plantcarereminder&hl=en)
 
 ## High level features
 
@@ -22,6 +23,7 @@ MVP:
     - Plant food?
 - Ability to add plants to a room (set of plants)
 - Get notifications when your plants need water (or food)
+- Internationalization (I18N)
 
 Future:
 
@@ -43,14 +45,18 @@ Other ideas:
 
 ## Technology
 
-Target platforms: Android, iOS (Phone form-factor)
-Authentication: Individual accounts (with the possibility of adding social accounts later)
-
+- Target platforms: Android, iOS (Phone form-factor)
+- Authentication: Individual accounts (with the possibility of adding social accounts later)
+- Frontend: Xamarin + Xamarin.Forms
+- Backend: 
 
 ## Name ideas
 
 - Plant Master
+- Plant Meister
 - Plant Butler
 - Plant nurse
 - Awake your plants
 - Keep your plants alive
+- Digital water 
+- Plant control
